@@ -5,8 +5,8 @@
 ---
 
 ## About Me
-
-- 🎮 Passionate about casual game development and backend systems using **C#, TypeScript, Node.js, and Lua**.
+- Software developer with over 15 years of experience.
+- 🎮 Passionate about casual game development and backend systems using **C#(.Net and Unity), TypeScript, Node.js, PHP, and Lua**.
 - I work across the full stack, building robust architectures for games and web applications.
 - As a freelancer, I've delivered various web applications focused on process automation and usability.
 
