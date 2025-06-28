@@ -9,6 +9,48 @@
 - 🎮 Passionate about casual game development and backend systems using **C#(.Net and Unity), TypeScript, Node.js, PHP, and Lua**.
 - I work across the full stack, building robust architectures for games and web applications.
 - As a freelancer, I've delivered various web applications focused on process automation and usability.
+---
+
+## 🎮 Professional Experience
+
+### 🚀 Lead Programmer — Clap Clap Games *(May 2019 – Present)*
+- Leading end-to-end development of casual mobile games from prototype to production
+- Spearheaded architecture design, performance optimization, and SDK integration across multiple releases
+- Led efforts on:
+  - **Game architecture:** scalable and reusable Unity3D systems (input, animation, state machines, asset management)
+  - **LiveOps:** remote config, A/B testing, and analytics integration using Unity Services (Remote Config, Game Analytics, Adjust, Firebase)
+  - **Monetization:** integrated mediation SDKs (e.g., ironSource, AdMob, AppLovin), rewarded ads, and IAP flows
+  - **CI/CD:** created custom Unity Editor tools and automated builds using GitHub Actions and Fastlane
+
+### 🎓 Volunteer Mentor — Mentorias Games Brasil *(May 2023 – Present)*
+- Supporting aspiring developers with career guidance in game development
+
+### 🌐 Full Stack Game Developer — Cupcake Sweet Entertainment *(Jul 2017 – May 2019)*
+- Developed gameplay features and server infrastructure
+- Worked with:
+  - Unity3D, PIXI.js, TypeScript, Node.js, PHP
+  - Docker, Kubernetes, Google Cloud (BigQuery)
+
+### 🛠️ Freelance Consultant *(Jun 2012 – Jan 2019)*
+- Designed and developed games, applications and APIs
+- Technologies: Unity3D, C#, JavaScript, Node.js, PHP
+
+### ✍️ Technical Writer — Fábrica de Jogos *(Sep 2016 – Jul 2017)*
+- Created articles and tutorials on game development topics
+- Covered tools like ARToolkit and SQLite in Unity
+
+### 🗺️ Software Developer — Teccenter *(Oct 2012 – Mar 2017)*
+- Developed georeferencing systems for web and mobile
+- Built REST APIs and mobile apps.
+
+---
+
+## 🧠 Skills
+
+- **Game Dev:** Unity3D, C#, Gameplay Programming, Tooling, External SDKs
+- **Full Stack:** Node.js, TypeScript, JavaScript, PHP
+- **DevOps:** Docker, Kubernetes, Google Cloud
+- **Soft Skills:** Mentorship, Team Collaboration, Feedback-Driven Development
 
 ---
 
